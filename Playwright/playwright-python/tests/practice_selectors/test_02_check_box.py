@@ -1,5 +1,6 @@
 from playwright.sync_api import Page, expect
-import random
+
+import pytest
 
 def test_check_box(page: Page):
     page.goto("https://demoqa.com/")

@@ -1,6 +1,6 @@
 from playwright.sync_api import Page, expect
 
-def test_check_box(page: Page):
+def test_radio_button(page: Page):
     page.goto("https://demoqa.com/")
 
     # Navegar a la página de Radio Button
