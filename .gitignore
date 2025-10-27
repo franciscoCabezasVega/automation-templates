@@ -1,0 +1,6 @@
+/Playwright/playwright-python/.idea
+/Playwright/playwright-python/__pycache__
+/Playwright/playwright-python/tests/__pycache__
+/Playwright/playwright-python/tests/login/__pycache__
+/Playwright/playwright-python/tests/practice_selectors/__pycache__
+/Selenium/selenium-java/selenium-demoqa/.idea
